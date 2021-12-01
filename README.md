@@ -2,7 +2,7 @@
 Java course part 1
 
 <a href="https://wirtzjava.blogspot.com">
-Ejercicios y apuntes de Fernando Rodriguez Dieguez
+Enunciados y apuntes de Fernando Rodriguez Dieguez
 </a>
 
 <ol>
