@@ -1,5 +1,10 @@
 # Java-01-Basics
 Java course part 1
+
+<a href="https://wirtzjava.blogspot.com">
+Ejercicios y apuntes de Fernando Rodriguez Dieguez
+</a>
+
 <ol>
 <li> Realiza un programa que lea por consola un valor en euros y lo convierta a dólares
   (suponer que 1 euro es igual a 1,14 dólares).</li>
