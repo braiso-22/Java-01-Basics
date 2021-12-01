@@ -5,6 +5,8 @@
  */
 package Basics;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Brais
@@ -15,7 +17,17 @@ public class Ej08 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Scanner a = new Scanner(System.in);
+        float media;
+        System.out.println("Introduce 4 edades!!");
+        media = a.nextFloat();
+        media += a.nextFloat();
+        media += a.nextFloat();
+        media += a.nextFloat();
+        
+        media /= 4f;
+
+        System.out.printf("La edad media es: %.2f años\n",media);
     }
-    
+
 }
